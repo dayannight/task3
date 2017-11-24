@@ -1,0 +1,39 @@
+
+                      html{font-size: 62.5%}
+body{
+    background: #68cdd5;
+    color: #fafafa;
+    font-size:1rem;
+}
+h1{text-align: center;
+    margin-bottom:10rem;
+}
+
+p{
+    font-size: 1.7rem;
+    margin-bottom: 20%;
+    text-align: center;
+}
+.div0{
+    padding: 10rem 10% 3rem 10%;
+}
+.div1{
+    background-color: #68cdd5;
+    width:10rem;
+    height:10rem;
+    float: left;
+
+}
+.div2 {
+    background-color: #68cdd5;
+    width: 10rem;
+    height: 10rem;
+    float: right;
+
+}
+.div2-1{
+    float: right;
+    width:55px;
+}
+
+
