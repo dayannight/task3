@@ -12,12 +12,18 @@ h1{text-align: center;
 p{
     font-size: 1.7rem;
     margin-bottom: 20%;
-    text-align: center;
+}
+.div2-1 p,.div1-1 p{
+    font-size:1rem;
+    margin:0;padding:0;
+    text-align:center;
 }
 .div0{
-    padding: 10rem 10% 3rem 10%;
+    padding: 8rem 10% 3rem 10%;
+    margin-bottom: 10rem;
 }
 .div1{
+    margin-top: 3rem;
     background-color: #68cdd5;
     width:10rem;
     height:10rem;
@@ -25,11 +31,16 @@ p{
 
 }
 .div2 {
+    margin-top: 3rem;
     background-color: #68cdd5;
     width: 10rem;
     height: 10rem;
     float: right;
 
+}
+.div1-1{
+    float: left;
+    width:55px;
 }
 .div2-1{
     float: right;
